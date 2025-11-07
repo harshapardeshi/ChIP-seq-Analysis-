@@ -17,3 +17,15 @@ The aim of this project is to identify SEP3 binding sites, annotate genomic regi
 | 4️⃣ | Peak Calling | MACS2 |
 | 5️⃣ | Peak Annotation | ChIPseeker |
 | 6️⃣ | Visualization | deepTools, ggplot2 |
+
+
+## 🧪 Dataset Details
+
+- **Organism:** *Arabidopsis thaliana* (TAIR10)  
+- **BioProject:** [PRJNA203220](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA203220)  
+- **Samples Used:**  
+  - SRR851702  
+  - SRR1 
+  - SRR1 
+- **Read Type:** Single-end  
+- **Reference Genome:** TAIR10
