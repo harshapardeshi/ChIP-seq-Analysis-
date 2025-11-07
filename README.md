@@ -29,3 +29,10 @@ The aim of this project is to identify SEP3 binding sites, annotate genomic regi
   - SRR1 
 - **Read Type:** Single-end  
 - **Reference Genome:** TAIR10
+
+### ✨ Summary of Findings
+
+- **SEP3 binds mainly in promoter regions**, indicating strong regulatory control near transcription start sites.  
+- **Highly enriched target genes** correspond to pathways involved in **floral development and meristem regulation**.  
+- **Biological replicates** show consistent peak patterns, demonstrating **high reproducibility** of ChIP-seq results.  
+- Overall, this study **confirms SEP3’s role as a key transcriptional regulator** in early *Arabidopsis thaliana* flower development.
